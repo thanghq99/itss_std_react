@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "development": "fir-sample-32fde",
+    "staging": "fir-sample-32fde"
+  }
+}
